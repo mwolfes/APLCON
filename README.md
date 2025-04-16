@@ -5,7 +5,7 @@
 # APLCON C++11 wrapper {#mainpage}
 
 APLCON++ is a C++11 wrapper class around the Constrained Least Squares
-fitter APLCON by Volker Blobel. Please <a href="http://www.desy.de/~blobel/wwwcondl.html">see 
+fitter APLCON by Volker Blobel. Please <a href="https://www.desy.de/~sschmitt/blobel/wwwcondl.html">see 
 his DESY homepage how APLCON works</a>. Also, if you use this wrapper 
 in a publication, don't forget to cite Volker Blobel's original work:
 
